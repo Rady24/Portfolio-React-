@@ -1,7 +1,7 @@
 import WorkIm from '../assets/workImg.jpeg'
 import RealEst from '../assets/realestate.jpg'
 
-export const data=[
+export  const data=[
     {
         id:1,
         name:"React JS Application",
@@ -33,3 +33,4 @@ export const data=[
 
 
 ]
+
