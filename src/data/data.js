@@ -1,35 +1,22 @@
-import WorkIm from '../assets/workImg.jpeg'
-import RealEst from '../assets/realestate.jpg'
-
+import Crypto from '../assets/Cryptomonitor.jpg'
+import Weather from '../assets/Weather.jpg'
 export  const data=[
     {
         id:1,
         name:"React JS Application",
-        image:WorkIm,
-        github:"",
-        live:"",
+        image:Crypto,
+        github:"https://github.com/Rady24/Cryptomonitor",
+        live:"https://rady24.github.io/Cryptomonitor/",
     },
     {
         id:2,
         name:"React JS Application",
-        image:RealEst,
-        github:"",
-        live:"",
+        image:Weather,
+        github:"https://github.com/Rady24/weather-app",
+        live:"https://rady24.github.io/weather-app/",
     },
-    {
-        id:3,
-        name:"React JS Application",
-        image:WorkIm,
-        github:"",
-        live:"",
-    },
-    {
-        id:4,
-        name:"React JS Application",
-        image:RealEst,
-        github:"",
-        live:"",
-    },
+    
+    
 
 
 ]

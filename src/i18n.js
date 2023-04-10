@@ -31,7 +31,7 @@ i18next
                     contact: 'Contact',
                     submit: 'Submit the form below or shoot me an email - radmyr.deriabin11@gmail.com',
                     lets: 'Let`s Collaborate',
-                    name: 'name',
+                    name: 'Name',
                 }
             },
             fr:{
