@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/Portfolio-React-/static/css/main.7bce313d.css",
-    "main.js": "/Portfolio-React-/static/js/main.64047fb8.js",
-    "static/media/realestate.jpg": "/Portfolio-React-/static/media/realestate.44fd19f4c6872731149c.jpg",
-    "static/media/workImg.jpeg": "/Portfolio-React-/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "main.js": "/Portfolio-React-/static/js/main.76d17b13.js",
+    "static/media/Cryptomonitor.jpg": "/Portfolio-React-/static/media/Cryptomonitor.4450c9e2f338d74acde8.jpg",
+    "static/media/Weather.jpg": "/Portfolio-React-/static/media/Weather.550652c86004a4e53a4b.jpg",
     "static/media/react.png": "/Portfolio-React-/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/github.png": "/Portfolio-React-/static/media/github.3b9e32903aa89111875d.png",
     "static/media/logo1.png": "/Portfolio-React-/static/media/logo1.9d09775852d80c71c3ea.png",
@@ -13,10 +13,10 @@
     "static/media/javascript.png": "/Portfolio-React-/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Portfolio-React-/index.html",
     "main.7bce313d.css.map": "/Portfolio-React-/static/css/main.7bce313d.css.map",
-    "main.64047fb8.js.map": "/Portfolio-React-/static/js/main.64047fb8.js.map"
+    "main.76d17b13.js.map": "/Portfolio-React-/static/js/main.76d17b13.js.map"
   },
   "entrypoints": [
     "static/css/main.7bce313d.css",
-    "static/js/main.64047fb8.js"
+    "static/js/main.76d17b13.js"
   ]
 }
